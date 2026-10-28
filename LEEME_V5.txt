@@ -1,0 +1,1 @@
+SOLIEC WEB 5.0. Sube TODOS los archivos de esta carpeta a la raíz del repositorio de GitHub. Se agregan 7 imágenes ilustrativas a Ingeniería y Servicios y sus fichas. No se presentan como proyectos ejecutados. No borres los archivos anteriores del repositorio.
