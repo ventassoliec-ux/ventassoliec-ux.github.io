@@ -1,0 +1,1 @@
+SOLIEC WEB 6.1 - Solo cambia catalogo-cemento.jpg. Subir este archivo a la raiz del repositorio y reemplazar el anterior. No modificar la portada ni otros archivos.
