@@ -1,0 +1,1 @@
+SOLIEC WEB 5.3: Se eliminaron iconos decorativos de las tarjetas en Inicio, Suministros, Proyectos, Nosotros y Contacto. Se conservaron las fotografias de Ingenieria y Servicios, enlaces y formularios. Subir todos los archivos a la raiz del repositorio.

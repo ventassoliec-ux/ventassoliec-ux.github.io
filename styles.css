@@ -16,3 +16,10 @@
 .grid .service-card .service-cta:hover,.grid .service-card .service-cta:focus-visible{background:#c64f00}
 @media(max-width:760px){.grid .service-card .service-thumb{height:205px}}
 @media(max-width:570px){.grid .service-card .service-thumb{height:210px}}
+
+/* V5.3: tarjetas corporativas sin emojis decorativos */
+.grid .card:not(.service-card){display:flex;flex-direction:column;min-height:230px;padding:30px;gap:9px}
+.grid .card:not(.service-card) h3{margin:0 0 5px;font-size:21px}
+.grid .card:not(.service-card) p{margin:0 0 12px;flex:1}
+.grid .card:not(.service-card) a.textlink{margin-top:auto;display:inline-block}
+.grid .card:not(.service-card):hover{box-shadow:0 10px 24px #082b5514}
