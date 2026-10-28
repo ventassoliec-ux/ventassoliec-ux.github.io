@@ -1,0 +1,10 @@
+SOLIEC WEB 7.1 - CARRITO DE COTIZACIONES
+
+1. Extraer el ZIP.
+2. Subir TODOS los archivos a la raiz del repositorio de GitHub Pages, reemplazando los existentes.
+3. Abrir suministros-construccion.html y usar Agregar al carrito.
+4. Abrir Carrito y revisar/modificar cantidades.
+5. Probar WhatsApp sin enviar el mensaje.
+
+Conserva los archivos existentes y la clave localStorage soliec_cotizacion_v7, por lo que las listas anteriores siguen siendo compatibles.
+No se almacenan pedidos en servidor ni se cobran pagos.
