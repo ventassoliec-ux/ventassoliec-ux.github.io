@@ -23,3 +23,13 @@
 .grid .card:not(.service-card) p{margin:0 0 12px;flex:1}
 .grid .card:not(.service-card) a.textlink{margin-top:auto;display:inline-block}
 .grid .card:not(.service-card):hover{box-shadow:0 10px 24px #082b5514}
+
+/* SOLIEC 6.0: catálogo fotográfico */
+.catalog-card{padding:0!important;min-height:0!important;gap:0!important;display:flex;flex-direction:column;overflow:hidden}
+.catalog-card>img{width:100%;height:175px;object-fit:cover;display:block}
+.catalog-body{padding:20px 22px 22px;display:flex;flex:1;flex-direction:column}
+.catalog-body h3{margin:0 0 10px!important;font-size:20px}
+.catalog-body p{margin:0 0 20px!important;flex:1}
+.catalog-cta{background:var(--orange);color:#fff!important;text-align:center;padding:12px 14px;border-radius:6px;font-weight:700;margin-top:auto}
+.catalog-cta:hover{background:#c64f00}
+@media(max-width:570px){.catalog-card>img{height:200px}}

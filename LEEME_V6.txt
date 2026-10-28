@@ -1,0 +1,4 @@
+SOLIEC WEB 6.0 — Catálogo fotográfico de Suministros y Construcción.
+Extrae el ZIP y sube TODOS los archivos de esta carpeta a la raíz del repositorio GitHub Pages.
+Las imágenes son ilustrativas y no acreditan inventario disponible.
+Los precios, stock, marcas y transporte se confirman por cotización.
