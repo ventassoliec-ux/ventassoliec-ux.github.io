@@ -1,0 +1,1 @@
+SOLIEC WEB 4.0 - Fichas técnicas comerciales. Subir el CONTENIDO de esta carpeta a la raíz del repositorio GitHub (incluidos styles.css y main.js). Reemplazar los archivos existentes cuando se solicite. No subir el ZIP. Las fichas describen servicios ofrecidos; no acreditan proyectos, certificaciones ni disponibilidad garantizada.
