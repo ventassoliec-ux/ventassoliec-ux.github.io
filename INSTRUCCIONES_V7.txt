@@ -1,0 +1,6 @@
+SOLIEC WEB 7.0
+Sube TODOS los archivos extraídos a la raíz del repositorio GitHub Pages, reemplazando los existentes.
+La nueva lista múltiple está en suministros-construccion.html. Usa catalogo-v7.css y catalogo-v7.js.
+La lista se guarda solo en el navegador (localStorage). No existe pago ni comprobación automática de stock.
+El cliente debe pulsar Enviar en WhatsApp.
+Comprueba búsqueda, filtros, agregar/quitar productos y envío desde computadora y celular.
