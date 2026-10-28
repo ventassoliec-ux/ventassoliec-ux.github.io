@@ -1,0 +1,1 @@
+SOLIEC WEB 5.2 — Cambios: sin iconos emoji en tarjetas de Ingeniería y Servicios; fotos a ancho completo, tarjetas de altura uniforme, botones naranjas alineados. Se mantienen las fichas individuales, formularios y el resto de la web. Para instalar: extraer el ZIP y subir todos los archivos a la raíz del repositorio de GitHub.
