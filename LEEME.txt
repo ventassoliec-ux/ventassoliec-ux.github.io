@@ -1,11 +1,2 @@
-SOLIEC WEB V3
-
-Subir TODOS los archivos de esta carpeta a la raíz del repositorio ventassoliec-ux.github.io. No subir el ZIP.
-
-Archivos antiguos con los mismos nombres se reemplazan. Se incluyen páginas de redirección para enlaces anteriores.
-
-Los formularios abren WhatsApp: no almacenan datos ni envían mensajes automáticamente; el cliente debe confirmar el envío en WhatsApp.
-
-La sección de Academia aún no tiene enlaces Hotmart. La sección Proyectos no incluye trabajos inventados.
-
-Revisar los textos antes de publicar y probar en celular.
+SOLIEC WEB 8.0 - Actualizacion SEO
+Subir los archivos de esta carpeta a la RAIZ del repositorio de GitHub Pages. Reemplazar los archivos HTML existentes del mismo nombre. No eliminar ningun otro archivo, especialmente los archivos google*.html de verificacion. No se modifican JS, CSS ni imagenes.
