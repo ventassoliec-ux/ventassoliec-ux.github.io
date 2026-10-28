@@ -1,0 +1,1 @@
+SOLIEC – Web empresarial multipágina. Para actualizar GitHub Pages, subir todos los archivos de esta carpeta a la raíz del repositorio ventassoliec-ux.github.io, reemplazando index.html y conservando las imágenes. No subir el ZIP sin extraer.
