@@ -1,0 +1,11 @@
+SOLIEC WEB 8.0 - PAQUETE COMPLETO
+
+1. Descomprime el ZIP.
+2. En GitHub, abre el repositorio ventassoliec-ux.github.io.
+3. Sube TODOS los archivos que estan dentro de la carpeta a la raiz del repositorio (no la carpeta).
+4. Confirma reemplazo de archivos existentes y guarda cambios (Commit changes).
+5. NO elimines los archivos google*.html de verificacion que ya existen en el repositorio.
+6. Comprueba el inicio, suministros, carrito y cotizaciones.
+7. En Search Console revisa el estado de sitemap.xml y la indexacion.
+
+Se conservan los archivos CSS, JavaScript e imagenes de la version 7.1.
